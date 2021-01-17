@@ -3,7 +3,7 @@ Given a list of addresses in Toronto, this planner can generate the most efficie
 
 <hr>
 
-"The ``travelling salesman problem (TSP)`` asks the following question: "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?" It is an **NP-hardproblem** in **combinatorial optimization**." -- by Wikipedia
+> "The ``travelling salesman problem (TSP)`` asks the following question: "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?" It is an **NP-hardproblem** in **combinatorial optimization**." -- by Wikipedia
 
 ## Input
 
@@ -198,7 +198,8 @@ Index:
 
 <img src="https://github.com/kk-deng/Delivery-Route-Planner/blob/main/gmaps_actual.png">
 
-```Lengend:
+```
+Lengend for the map:
 1  =  375 Bamburgh Cir, Scarborough, ON
 2  =  10231 Yonge St, Richmond Hill, ON
 3  =  1383 16th Ave, Richmond Hill, ON
