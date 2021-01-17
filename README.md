@@ -193,3 +193,25 @@ Index:
 * A map of all places are drawn on Google Maps:
 
 <img src="https://github.com/kk-deng/Delivery-Route-Planner/blob/main/gmaps_route.png">
+
+* With Google Directions API, we can plot the actual routes on the map. However, due to a large number of direction requests. The screenshot is not the final result.
+
+<img src="https://github.com/kk-deng/Delivery-Route-Planner/blob/main/gmaps_actual.png">
+
+```Lengend:
+1  =  375 Bamburgh Cir, Scarborough, ON
+2  =  10231 Yonge St, Richmond Hill, ON
+3  =  1383 16th Ave, Richmond Hill, ON
+4  =  11 Disera Dr, Thornhill, ON
+5  =  280 West Beaver Creek Rd, Richmond Hill, ON
+6  =  3760 Hwy 7, Unionville, ON
+7  =  300 John St, Thornhill, ON
+8  =  5418 Yonge St #12, North York, ON
+9  =  8 William Kitchen Rd A, Scarborough, ON
+10  =  7575 Keele St, Concord, ON
+11  =  5284 Hwy 7, Markham, ON
+12  =  4205 Keele St, North York, ON
+13  =  3203 Dufferin St, North York, ON
+14  =  3400 Yonge St, Toronto, ON
+15  =  51 Gerry Fitzgerald Dr, Toronto, ON
+```
