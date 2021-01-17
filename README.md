@@ -192,3 +192,4 @@ Index:
 
 * A map of all places are drawn on Google Maps:
 
+<img src="https://github.com/kk-deng/Delivery-Route-Planner/blob/main/gmaps_route.png">
