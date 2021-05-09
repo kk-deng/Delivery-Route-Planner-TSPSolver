@@ -1,7 +1,11 @@
 # Delivery Route Planner (TSP solver)
 Given a list of addresses in Toronto, this planner can generate the most efficient (shortest) route with visting the same location twice, outputting as excel file.
 
+<img src="https://github.com/kk-deng/Delivery-Route-Planner/blob/main/img/banner.png">
+
 <hr>
+
+### What is TSP?
 
 > "The ``travelling salesman problem (TSP)`` asks the following question: "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?" It is an **NP-hardproblem** in **combinatorial optimization**." -- by Wikipedia
 
