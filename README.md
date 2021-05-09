@@ -1,5 +1,5 @@
 # Delivery-Route-Planner
-Given a list of addresses in Toronto, this planner can generate the most efficient (shortest) route and output as excel file.
+Given a list of addresses in Toronto, this planner can generate the most efficient (shortest) route with visting the same location twice, outputting as excel file.
 
 <hr>
 
