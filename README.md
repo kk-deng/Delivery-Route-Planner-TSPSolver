@@ -1,4 +1,4 @@
-# Delivery-Route-Planner
+# Delivery Route Planner (TSP solver)
 Given a list of addresses in Toronto, this planner can generate the most efficient (shortest) route with visting the same location twice, outputting as excel file.
 
 <hr>
